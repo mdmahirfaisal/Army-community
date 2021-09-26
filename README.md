@@ -6,5 +6,7 @@ This project was bootstrapped with [visit live site](https://bangladesh-army-fai
 
 In the project directory, you can run:
 
-### `npm start`
++ faisal
++ ahmed 
++ mahir
 
