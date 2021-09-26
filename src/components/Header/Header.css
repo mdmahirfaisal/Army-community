@@ -1,0 +1,16 @@
+body{
+    background-color: #d3f7f4;
+}
+.head-top{
+    background-color: #d2dae2;
+    padding: 20px 0;
+}
+.header{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.logo{
+height: 100px;
+margin-right: 30px;
+}

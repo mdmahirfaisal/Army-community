@@ -1,0 +1,12 @@
+.card-bg{
+    background-color: rgb(242, 230, 230);
+    border-radius: 20px;
+}
+.card-img{
+    height: 48%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.add-btn{
+    cursor: pointer;
+}
