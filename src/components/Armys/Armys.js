@@ -28,7 +28,7 @@ const Armys = () => {
             <div className="col-md-9 ">
                 <div className="armys-container">
 
-                    <div className="row p-3">
+                    <div className="row p-3 armys">
                         {
                             armys.map(army => <Army
                                 key={army._id}

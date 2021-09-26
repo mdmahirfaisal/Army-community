@@ -1,8 +1,13 @@
 .card-bg{
     background-color: rgb(242, 230, 230);
 }
-.card-item{
+.card-body-item{
     border-radius: 10px;
+    transition: 0.5s;
+}
+.card-body-item:hover{
+    color: rgb(226, 43, 30);
+background-color: rgba(214, 203, 203, 0.748);
 }
 .card-img{
     height: 48%;

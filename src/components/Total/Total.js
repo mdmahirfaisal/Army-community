@@ -14,7 +14,7 @@ const Total = (props) => {
         <>
             <div className="py-3">
                 <h3>Army added ( {totalArmy.length} )</h3>
-                <h4>Total Salary: $ {total}</h4>
+                <h4>Total Salary: ( <span className="text-danger fw-bold"><i className="fas fa-dollar-sign"></i> {total}</span> )</h4>
             </div>
             <div>
                 {

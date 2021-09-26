@@ -12,7 +12,7 @@ const Army = (props) => {
 
             <div className="card h-100 shadow-lg card-item ">
                 <img src={picture} className="card-img rounded" alt="" />
-                <div className="card-body bg-white ">
+                <div className="card-body card-body-item">
                     <h5 className="card-title  fw-bold"><span className="fw-bold text-danger">NAME:</span> {name}</h5>
                     <p className="card-text fw-bold"><span className="fw-bold text-danger">AGE:</span> {age}</p>
                     <p className="card-text fw-bold"><span className="fw-bold text-danger">ID:</span> {_id}</p>
@@ -21,7 +21,10 @@ const Army = (props) => {
                     <div className="text-center pt-5">
 
                         {/* react font awesome install hote somossa hocche tai bangla sistem a icon add korlam   Soory  */}
-
+                        <div className="container d-flex justify-content-around">
+                            <h1><i class="fab fa-facebook-square"></i></h1>
+                            <h1><i class="fab fa-twitter-square"></i></h1>
+                        </div>
                         <button onClick={() => props.handleAddButton(props.army)} className="btn btn-outline-danger add-btn "><i className="fas fa-shopping-cart"></i> Add to cart</button>
                     </div>
                 </div>

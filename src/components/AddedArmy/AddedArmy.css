@@ -1,0 +1,7 @@
+.added-army{
+    transition: 0.5s;
+}
+.added-army:hover{
+    color: white;
+    background-color: rgb(199, 51, 24);
+}
