@@ -6,7 +6,7 @@ This project was bootstrapped with [visit live site](https://bangladesh-army-fai
 
 In the project directory, you can run:
 
-+ faisal
-+ ahmed 
-+ mahir
++ Soldiers in Bangladesh to protect the people
++ And you will see how much money is invested for Bangladesh soldiers
++ Corona virus Bangladesh The work of others is essential
 
