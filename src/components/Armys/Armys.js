@@ -24,7 +24,7 @@ const Armys = () => {
 
     return (
         //    all army details 
-        <div className="mx-2 row g-col-4">
+        <div className="mx-2 row g-col-6">
             <div className="col-md-9 ">
                 <div className="armys-container">
 

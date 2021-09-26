@@ -1,9 +1,11 @@
 body{
-    background-color: #d3f7f4;
+    background-color: #ffffff;
 }
 .head-top{
-    background-color: #d2dae2;
-    padding: 20px 0;
+    color: rgb(255, 65, 65);
+    background-color: #ffffff;
+    padding: 1px 0;
+    border-bottom: 1px solid gray;
 }
 .header{
 display: flex;

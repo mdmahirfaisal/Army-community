@@ -1,6 +1,8 @@
 .card-bg{
     background-color: rgb(242, 230, 230);
-    border-radius: 20px;
+}
+.card-item{
+    border-radius: 10px;
 }
 .card-img{
     height: 48%;
